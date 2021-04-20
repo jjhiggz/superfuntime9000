@@ -1,3 +1,6 @@
-h1 {
-	color: orange;
+.square {
+	height: 100px;
+	width: 100px;
+	background-color: khaki;
+	border: 10px solid black;
 }
